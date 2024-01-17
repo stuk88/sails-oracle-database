@@ -6,12 +6,12 @@ A [Waterline](https://github.com/balderdashy/waterline) adapter for Oracle Datab
 
 ## How to install
 
-`oracledb` driver module is the main dependency of `sails-oracle-database`, so before installing it, you MUST read [How to Install oracledb](https://github.com/oracle/node-oracledb/blob/master/INSTALL.md).
+`oracledb` driver module is the main dependency of `sails-oracle-new`, so before installing it, you MUST read [How to Install oracledb](https://github.com/oracle/node-oracledb/blob/master/INSTALL.md).
 
 Installation is performed via NPM as follows:
 
 ```bash
-$ npm install sails-oracle-database
+$ npm install sails-oracle-new
 ```
 
 ## Configuration parameters
@@ -20,7 +20,7 @@ The following configuration options are available along with their default value
 
 ```javascript
 config: {
-    adapter: 'sails-oracle-database',
+    adapter: 'sails-oracle-new',
     connectString: 'host:port/databaseName',
     logQueries:true,
     debug:true,
