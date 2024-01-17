@@ -1,6 +1,6 @@
 {
   "name": "sails-oracle-new",
-  "version": "0.4.3",
+  "version": "0.4.4",
   "description": "Oracle Database adapter for Sails.js.",
   "main": "lib/adapter.js",
   "keywords": [
@@ -10,7 +10,7 @@
     "oracledb",
     "sails",
     "oracle-database",
-    "sails-oracle-database",
+    "sails-oracle-new",
     "sails-oracle",
     "sails-oracledb",
     "sailsjs",
