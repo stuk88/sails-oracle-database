@@ -1,5 +1,5 @@
 {
-  "name": "sails-oracle-database",
+  "name": "sails-oracle-new",
   "version": "0.4.3",
   "description": "Oracle Database adapter for Sails.js.",
   "main": "lib/adapter.js",
